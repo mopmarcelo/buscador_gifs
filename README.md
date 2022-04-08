@@ -1,6 +1,9 @@
 # buscador_gifs
 
 A new Flutter project.
+### Sample app to search and share gifs.
+
+Enjoy
 
 ## Getting Started
 
